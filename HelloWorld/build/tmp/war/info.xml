@@ -1,0 +1,6 @@
+<extension version='1'>
+  <name>Hello World</name>
+  <description>Basic Project Launch Point</description>
+  <version>0</version>
+  <vendor>Petrovich</vendor>
+</extension>

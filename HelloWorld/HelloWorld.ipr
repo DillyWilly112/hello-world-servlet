@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactManager">
+    <artifact type="exploded-war" build-on-make="true" name="Add-On Web exploded">
+      <output-path>$PROJECT_DIR$/../../WebCTRL7.0/addons/helloworld/webapp</output-path>
+      <root id="root">
+        <element id="javaee-facet-resources" facet="HelloWorld/web/Add-On Web" />
+        <element id="directory" name="WEB-INF">
+          <element id="directory" name="classes">
+            <element id="module-output" name="HelloWorld" />
+          </element>
+          <element id="directory" name="lib">
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/jstl/jstl/1.1.2/3375e43c620df4f1114959400ff9bb90d12a2feb/jstl-1.1.2.jar" />
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/taglibs/standard/1.1.2/a17e8a4d9a1f7fcc5eed606721c9ed6b7f18acf7/standard-1.1.2.jar" />
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/jstl/1.1.2/3375e43c620df4f1114959400ff9bb90d12a2feb/jstl-1.1.2.jar" />
+          </element>
+        </element>
+      </root>
+    </artifact>
+  </component>
+  <component name="CompilerConfiguration">
+    <resourceExtensions>
+      <entry name=".+\.(properties|xml|html|dtd|tld)" />
+      <entry name=".+\.(gif|png|jpeg|jpg)" />
+    </resourceExtensions>
+    <wildcardResourcePatterns>
+      <entry name="!?*.class" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.java" />
+      <entry name="!?*.groovy" />
+    </wildcardResourcePatterns>
+    <bytecodeTargetLevel target="1.7" />
+  </component>
+  <component name="CopyrightManager" default="">
+    <module2copyright />
+  </component>
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="GradleUISettings">
+    <setting name="root" />
+  </component>
+  <component name="GradleUISettings2">
+    <setting name="root" />
+  </component>
+  <component name="IdProvider" IDEtalkID="11DA1DB66DD62DDA1ED602B7079FE97C" />
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" />
+    <option name="OPTION_SCOPE" value="protected" />
+    <option name="OPTION_HIERARCHY" value="true" />
+    <option name="OPTION_NAVIGATOR" value="true" />
+    <option name="OPTION_INDEX" value="true" />
+    <option name="OPTION_SEPARATE_INDEX" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_USE" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_DEPRECATED" value="true" />
+    <option name="OPTION_DEPRECATED_LIST" value="true" />
+    <option name="OTHER_OPTIONS" value="" />
+    <option name="HEAP_SIZE" />
+    <option name="LOCALE" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module filepath="$PROJECT_DIR$/HelloWorld.iml" fileurl="file://$PROJECT_DIR$/HelloWorld.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl />
+          </splitter-proportions>
+          <settings />
+        </UIState>
+      </state>
+      <state key="Copyright.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl />
+          </splitter-proportions>
+        </UIState>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl>
+              <option name="proportions">
+                <list>
+                  <option value="0.2" />
+                </list>
+              </option>
+            </SplitterProportionsDataImpl>
+          </splitter-proportions>
+          <last-edited>1.6</last-edited>
+        </UIState>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl />
+          </splitter-proportions>
+          <settings />
+        </UIState>
+      </state>
+    </states>
+  </component>
+</project>
